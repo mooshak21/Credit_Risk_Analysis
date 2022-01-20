@@ -23,7 +23,7 @@ So, we will deploy different techniques to train and evaluate models with unbala
 
 ![](https://github.com/mooshak21/Credit_Risk_Analysis/blob/main/Resources/3.png)
 
-!**Classification Report**
+**Classification Report**
 
 ![](https://github.com/mooshak21/Credit_Risk_Analysis/blob/main/Resources/4.png)
 
@@ -35,7 +35,7 @@ So, we will deploy different techniques to train and evaluate models with unbala
 
 ![](https://github.com/mooshak21/Credit_Risk_Analysis/blob/main/Resources/5.png)
 
-!**Classification Report**
+**Classification Report**
 
 ![](https://github.com/mooshak21/Credit_Risk_Analysis/blob/main/Resources/6.png)
 
@@ -47,7 +47,7 @@ So, we will deploy different techniques to train and evaluate models with unbala
 
 ![](https://github.com/mooshak21/Credit_Risk_Analysis/blob/main/Resources/7.png)
 
-!**Classification Report**
+**Classification Report**
 
 ![](https://github.com/mooshak21/Credit_Risk_Analysis/blob/main/Resources/8.png)
 
@@ -61,7 +61,7 @@ So, we will deploy different techniques to train and evaluate models with unbala
 
 ![](https://github.com/mooshak21/Credit_Risk_Analysis/blob/main/Resources/9.png)
 
-!**Classification Report**
+**Classification Report**
 
 ![](https://github.com/mooshak21/Credit_Risk_Analysis/blob/main/Resources/10.png)
 
@@ -73,6 +73,6 @@ So, we will deploy different techniques to train and evaluate models with unbala
 
 ![](https://github.com/mooshak21/Credit_Risk_Analysis/blob/main/Resources/11.png)
 
-!**Classification Report**
+**Classification Report**
 
 ![](https://github.com/mooshak21/Credit_Risk_Analysis/blob/main/Resources/12.png)
